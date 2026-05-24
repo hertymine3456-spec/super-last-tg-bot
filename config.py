@@ -4,7 +4,7 @@ from pathlib import Path
 BASE_DIR = Path(__file__).resolve().parent
 
 # ========== ТВОИ ДАННЫЕ ==========
-BOT_TOKEN = "8767025443:AAEJL7q6kyqqRd3RsSW9-45t_2cJvP9bKPGw"
+BOT_TOKEN = "8767025443:AAEBE-4B7b0oe5bvvAW4mQDc9vWathXqM7s"
 OWNER_ID = 6783350851
 CHANNEL_ID = -1002948114104
 GROUP_ID = -1002489835677
